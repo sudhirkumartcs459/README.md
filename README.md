@@ -64,5 +64,5 @@ I mostly work with Cloud Solutions( AWS, Azure) ,packaging and Release mechanism
 
 ### 📫 How to reach me?
 
- - Connect with me on [LinkedIn]([https://www.linkedin.com/in/shubhamlondhe1996](https://www.linkedin.com/in/sudhir-kumar-830a58127/)/) 👨🏻‍💻
+ - Connect with me on [LinkedIn]((https://www.linkedin.com/in/sudhir-kumar-830a58127/)/) 👨🏻‍💻
  - - Shoot Me an [Email](mailto:sudhirkumar.tcs@gmail.com) 💌
