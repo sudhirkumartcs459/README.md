@@ -4,9 +4,9 @@
 **LondheShubham153/LondheShubham153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Shubham](https://www.linkedin.com/in/shubhamlondhe1996/), a Full Stack Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
+I am [Sudhir kumar](https://www.linkedin.com/in/sudhir-kumar-830a58127/), Working as an Devops Enginner ,Proficient in multiple DevOps tools and techniques and knowledgeable in infrastructure automation.  🎯
 
-I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
+I mostly work with Cloud Solutions( AWS, Azure) ,packaging and Release mechanism for End to end Ci/CD projects(Nexus, Using GitHub Web Hooks) etc. 🚀
 
 
 <p float="left">
